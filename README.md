@@ -1,0 +1,1 @@
+In this Project I have craeted Spring Boot API's to automate some of the verification steps in claiming Dental Insurance. The file created API's are then integrated to a web application which was hosted using AWS Services.
