@@ -1,1 +1,1 @@
-In this Project I have craeted Spring Boot API's to automate some of the verification steps in claiming Dental Insurance. The file created API's are then integrated to a web application which was hosted using AWS Services.
+In this Project, I created Spring Boot APIs to automate some verification steps in claiming Dental Insurance. The created APIs are then integrated into a web application that is hosted using AWS Services.
